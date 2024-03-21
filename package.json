@@ -1,6 +1,6 @@
 {
   "name": "up-next",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An npx executable to upgrade the nextjs to the latest version",
   "main": "index.js",
   "keywords": [
