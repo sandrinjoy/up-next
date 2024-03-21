@@ -7,6 +7,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "my-npx-command": "./index.js"
+    "up-next": "./index.js"
   }
 }
