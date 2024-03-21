@@ -1,12 +1,19 @@
 {
   "name": "up-next",
   "version": "1.0.2",
-  "description": "",
+  "description": "An npx executable to upgrade the nextjs to the latest version",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nextjs",
+    "next",
+    "up-next"
+  ],
+  "scripts": {
+    "release": "ncc build index.js -o dist"
+  },
+  "author": "Sandrin Joy",
   "license": "ISC",
   "bin": {
-    "up-next": "./index.js"
+    "up-next": "./dist/index.js"
   }
 }
