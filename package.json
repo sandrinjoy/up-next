@@ -18,5 +18,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandrinjoy/up-next.git"
+  },
+  "homepage": "https://github.com/sandrinjoy/up-next#readme"
 }
