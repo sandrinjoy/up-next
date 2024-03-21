@@ -15,5 +15,8 @@
   "license": "ISC",
   "bin": {
     "up-next": "./dist/index.js"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
